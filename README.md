@@ -24,5 +24,9 @@ Show generated eyeball texture in long-lat coordinate.
 
 ## Copyrights
 
-* GLSL shader developed by https://github.com/FMS-Cat
+* GLSL shader by https://github.com/FMS-Cat
 * Cubemap from http://wgld.org/d/webgl/w044.html
+
+## Licenses
+
+* MIT license.
